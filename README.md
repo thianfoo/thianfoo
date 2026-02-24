@@ -1,12 +1,9 @@
-<h1 align="center">Hi there, I'm Teng Thian Foo 👋</h1>
+<h1 align="center">Hi there, I'm Thian Foo 👋</h1>
 <h3 align="center">Computer Science and Design Student @ SUTD</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/thianfoo">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:tengthianfoo3eb3@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/thianfoo">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio"/>
@@ -16,12 +13,11 @@
 ---
 
 ### 👨‍💻 About Me
+Software Engineer passionate about building meaningful products. Always learning, always building and always exploring new ways technology can create impact.
 
-* 🔭 **Currently working on:** A machine learning comic/manga style authenticator, an automated pest control system utilizing thermal heatmaps, and a PageRank algorithm in C.
-* 🌱 **Currently learning:** Advanced linear algebra, memory management in C (`malloc`, pointers), and optimizing machine learning models (Ridge Regression, SGD, SVMs).
-* 🚀 **Recent projects:** ElderCare, a web app for caregivers using React and MongoDB, and Divvy, an Android app for bill splitting. I also built a Generative AI platform for the TikTok Tech Jam Hackathon.
-* 💼 **Work Experience:** Software Engineering Intern at Ministry of Clean P/L, building Python automation tools for e-commerce and a VR Training Toolkit in Unity/C#.
-* ⚡ **Fun fact:** When I'm not debugging memory leaks, I'm developing mobile RPGs like my Google Play Store game, *Silly Slime Adventure*.
+* 🌱 **Currently learning:** Machine Learning, AI, Data Science, Database Systems.
+* 💼 **Work Experience:** Software Engineering Intern building Python automation tools for e-commerce and a VR Training Toolkit in Unity/C#.
+* ⚡ **Fun fact:** I code, gym, sleep in a while loop.
 
 ---
 
@@ -46,19 +42,7 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=thianfoo&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Trophies" />
-</p>
-
----
-
 ### 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thianfoo&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thianfoo&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thianfoo&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
