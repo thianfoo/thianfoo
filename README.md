@@ -15,7 +15,7 @@
 ### 👨‍💻 About Me
 Software Engineer passionate about building meaningful products. Always learning, always building and always exploring new ways technology can create impact.
 
-* 🌱 **Track:** Software Engineering, Machine Learning, AI, Data Science, Database Systems.
+* 🌱 **Track:** Software Engineering, Machine Learning, AI, Database Systems.
 * 💼 **Recent Work Experience:** Software Engineering Intern building Planned Maintenance System and procurement application using Next.js, TypeScript and Supabase
 * ⚡ **Fun fact:** I code, gym, sleep in a while loop.
 
