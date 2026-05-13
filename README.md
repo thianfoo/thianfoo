@@ -16,7 +16,7 @@
 Software Engineer passionate about building meaningful products. Always learning, always building and always exploring new ways technology can create impact.
 
 * 🌱 **Track:** Software Engineering, Machine Learning, AI, Data Science, Database Systems.
-* 💼 **Work Experience:** Software Engineering Intern building Python automation tools for e-commerce and a VR Training Toolkit in Unity/C#.
+* 💼 **Work Experience:** Software Engineering Intern building Planned Maintenance System and procurement application, Python automation tools for e-commerce and a VR Training Toolkit in Unity/C#.
 * ⚡ **Fun fact:** I code, gym, sleep in a while loop.
 
 ---
